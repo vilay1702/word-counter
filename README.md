@@ -28,8 +28,8 @@ No signup. No app to install. Nothing you type ever leaves your browser.
 ## Your data
 
 The text you're working on is saved in this browser only, so it survives
-a refresh. Nothing is uploaded — there are no accounts, no trackers, and
-no server to send anything to. See the Privacy page in the app for
+a refresh. Nothing is uploaded — there are no accounts, no third-party trackers, and no cookies — just
+anonymous, cookieless usage counts on our own analytics (DNT respected). See the Privacy page in the app for
 details.
 
 ## Coming back
